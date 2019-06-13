@@ -1,4 +1,4 @@
-# The Counter 🌎
+# The Counter - 🌎 +
 
 A global counter app that everyone can count with.
 
